@@ -1,0 +1,56 @@
+.header
+{
+    padding-top: 15px;
+}
+.main
+{
+    margin-top: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    min-height: calc(100vh - 70px);
+}
+
+.maincal{
+	box-shadow: 0 0 0 4px #F5F5F5, 0 0 0 6px #DC143C;
+	width: 170px; 
+	height: 170px;
+	border-radius: 170px;
+}
+.background
+{
+    background-color: #F5F5F5;
+}
+.featureImg
+{
+    margin-bottom: 10px;
+    width: 80px; 
+    height: 80px;
+	border-radius: 40px;
+	box-shadow: 0 0 0 3px #fff, 0 0 0 4px #A9A9A9;
+
+}
+.feature
+{
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+.photo
+{
+    width: 330px; 
+    height: 330px;
+}
+.copyright{
+	display: flex;
+	margin-left: 430px;
+}
+
+@font-face
+  {
+  font-family: Nfont;
+  src: url("fonts/18290.ttf");
+  }
+#logo
+  {
+  font-family: Nfont;
+  font-size: 40px;
+  }
